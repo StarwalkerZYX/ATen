@@ -1,3 +1,5 @@
+cmake_minimum_required(VERSION 3.11)
+
 if (BUILD_ATEN_MOBILE)
   return()
 endif()
